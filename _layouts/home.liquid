@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+<div class="home">
+
+    <div id="main" class="call-out"
+         style="background-image: url('{{ site.header_feature_image | relative_url }}')">
+        <h1 align="right" style="margin-top:2cm;"> {{ site.header_text | default: "Change <code>header_text</code> in <code>_config.yml</code>"}} </h1>
+        <h2 align="right"> {{ site.header_subtitle }} </h2>
+
+        <div align="right">
+        <p style="width: 750px;text-align: right;font-size:80%;"> {% include home/home.html %} </p>
+        </div>
+
+        <div align="right" style="margin-top:2cm">
+        <p style="text-align:right;font-size:50%;"> Image credit: H.E.S.S. Collaboration </p>
+        </div>
+
+    </div>
+
+</div>

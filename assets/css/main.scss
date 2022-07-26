@@ -1,0 +1,72 @@
+---
+---
+
+@import "type-on-strap";
+
+// Change avatar to a circle
+// .site-header .avatar {
+//  border-radius: 50%;
+  // height: 4em;
+  // width: 4em;
+// }
+
+//change picture zoom
+//.call-out { 
+//background-size: cover;
+//background-color: white;
+//}
+
+//#main {
+//	 background-position: center 50px;
+//}
+
+// header#main {
+//	padding-top: 7%;
+//	padding-bottom: 7%;
+//	background-size: 100%;
+// }
+
+// .article-image-text-left {
+//	float: left;
+// }
+
+// .article-image-text-right {
+//	float: right;
+// }
+
+.portfolio-cell img {
+	width: 400px;
+	height: auto;
+}
+
+.portfolio-cell {
+  flex: 0 0 50%;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+.portfolio-link img {
+	padding-left:0%;
+	padding-right:0%;
+	padding-bottom:0%;
+}
+
+//.post-content img {
+//		display: block;
+//		margin-left: auto;
+//		margin-right: auto;
+//}
+
+//.left-image img {
+//	display: inline-block;
+//    padding: 0 0;
+//    height: 50px;
+//}
+
+//#main h1 {
+//	font-size: 1.7em;
+//}
+//#main h2 {
+//	font-size: 0.9em;
+//}
+
