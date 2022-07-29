@@ -17,7 +17,7 @@ See <a href="https://ui.adsabs.harvard.edu/public-libraries/O0Q1jhImQ1Cw1C6cJB1J
   * F. Aharonian et al. (H.E.S.S. Collaboration)
   * Accepted in Astronomy & Astrophysics
   * Contributions: I have lead the data analysis and have written the entire paper.
-  * Links tba
+  * <a href="https://arxiv.org/abs/2207.10921" target="_blank">arXiv</a> &nbsp;&nbsp; \| &nbsp;&nbsp; <a href="https://doi.org/10.1051/0004-6361/202244323" target="_blank">DOI</a>
 <p> </p>
 
 * __Validation of open-source science tools and background model construction in γ-ray astronomy__

@@ -42,6 +42,7 @@ For the entire region, the spectrum of the gamma-ray emission extends to energie
 This again demonstrates that Westerlund 1 must be a very powerful cosmic-ray accelerator - for comparison, the most powerful man-made accelerator (the Large Hadron Collider at CERN) can accelerate protons to "only" 13 TeV.
 
 Paper reference: A&A, accepted (2022).<br>
+DOI: <a href="https://doi.org/10.1051/0004-6361/202244323" target="_blank">10.1051/0004-6361/202244323</a><br>
 Pre-print: <a href="https://arxiv.org/abs/2207.10921" target="_blank">arXiv:2207.10921</a>
 
 <p style="font-size:9pt;margin-top:2cm;">Banner image credit: ESO/VPHAS+ Survey/N. Wright.</p>
