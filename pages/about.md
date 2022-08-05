@@ -7,7 +7,18 @@ order: 1
 tags: []
 ---
 
-<div><img src="/assets/img/portrait2.jpg" alt="Lars Mohrmann" width="250" align="right" style="padding-top:1%;padding-left:2%;padding-right:2%;padding-bottom:2%"></div>
+<div><img src="/assets/img/portrait2.jpg" alt="Lars Mohrmann" width="250" align="left" style="padding-top:1%;padding-left:2%;padding-right:2%;padding-bottom:2%"></div>
+
+__Contact information__:
+
+Dr. Lars Mohrmann<br>
+Max Planck Institute for Nuclear Physics<br>
+Saupfercheckweg 1, 69117 Heidelberg, Germany<br>
+Office BO-221<br>
+Phone: +49 6221 615145<br>
+E-Mail: <a href="mailto:lars.mohrmann@mpi-hd.mpg.de">lars.mohrmann AT mpi-hd.mpg.de</a>
+
+<br><br>
 
 I am a researcher in the field of astroparticle physics.
 
