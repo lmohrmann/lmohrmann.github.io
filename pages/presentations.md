@@ -9,6 +9,12 @@ tags: []
 
 #### Presentations
 
+* __2022-08-11 &nbsp;&nbsp; \| &nbsp;&nbsp; Measurements of Galactic γ-ray Sources with Imaging Atmospheric Cherenkov Telescopes__
+  * Invited plenary talk at the TeV Particle Astrophysics (TeVPA) conference 2022
+  * Kingston, Ontario, Canada, August 2022
+  * <a href="/assets/talks/2022-08-11_LarsMohrmann_TeVPA2022.pdf" target="_blank">Presentation (PDF, 35.4 MB)</a>
+<p> </p>
+
 * __2022-07-26 &nbsp;&nbsp; \| &nbsp;&nbsp; Young massive stellar clusters as cosmic-ray sources: the case of Westerlund 1__
   * Contributed talk at the 27th European Cosmic Ray Symposium (ECRS 2022)
   * Nijmegen, Netherlands, July 2022
