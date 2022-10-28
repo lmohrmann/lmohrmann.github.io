@@ -15,9 +15,23 @@ See <a href="https://ui.adsabs.harvard.edu/public-libraries/O0Q1jhImQ1Cw1C6cJB1J
 
 * __A deep spectromorphological study of the γ-ray emission surrounding the young massive stellar cluster Westerlund 1__
   * F. Aharonian et al. (H.E.S.S. Collaboration)
-  * Accepted in Astronomy & Astrophysics
+  * Astronomy & Astrophysics __666__, A124 (2022)
   * Contributions: I have lead the data analysis and have written the entire paper.
-  * <a href="https://arxiv.org/abs/2207.10921" target="_blank">arXiv</a> &nbsp;&nbsp; \| &nbsp;&nbsp; <a href="https://doi.org/10.1051/0004-6361/202244323" target="_blank">DOI</a>
+  * <a href="https://ui.adsabs.harvard.edu/abs/2022A%26A...666A.124A/abstract" target="_blank">ADS</a> &nbsp;&nbsp; \| &nbsp;&nbsp; <a href="https://arxiv.org/abs/2207.10921" target="_blank">arXiv</a> &nbsp;&nbsp; \| &nbsp;&nbsp; <a href="https://doi.org/10.1051/0004-6361/202244323" target="_blank">DOI</a>
+<p> </p>
+
+* __Time-resolved hadronic particle acceleration in the recurrent nova RS Ophiuchi__
+  * F. Aharonian et al. (H.E.S.S. Collaboration)
+  * Science __376__, 77–80 (2022)
+  * Contributions: I have helped preparing the H.E.S.S. data and assisted in the data analysis.
+  * <a href="https://ui.adsabs.harvard.edu/abs/2022Sci...376...77A/abstract" target="_blank">ADS</a> &nbsp;&nbsp; \| &nbsp;&nbsp; <a href="https://arxiv.org/abs/2202.08201" target="_blank">arXiv</a> &nbsp;&nbsp; \| &nbsp;&nbsp; <a href="https://doi.org/10.1126/science.abn0567" target="_blank">DOI</a>
+<p> </p>
+
+* __Revealing x-ray and gamma ray temporal and spectral similarities in the GRB 190829A afterglow__
+  * H. Abdalla et al. (H.E.S.S. Collaboration)
+  * Science __372__, 1081–1085 (2021)
+  * Contributions: I have helped preparing the H.E.S.S. data and assisted in the data analysis.
+  * <a href="https://ui.adsabs.harvard.edu/abs/2021Sci...372.1081H/abstract" target="_blank">ADS</a> &nbsp;&nbsp; \| &nbsp;&nbsp; <a href="https://arxiv.org/abs/2106.02510" target="_blank">arXiv</a> &nbsp;&nbsp; \| &nbsp;&nbsp; <a href="https://doi.org/10.1126/science.abe8560" target="_blank">DOI</a>
 <p> </p>
 
 * __Validation of open-source science tools and background model construction in γ-ray astronomy__
