@@ -11,9 +11,8 @@ tags: []
 
 Below is a collection of Bachelor and Master theses that I have supervised at the University of Erlangen-Nürnberg.
 
-* __Matthias Matzke: tba__
+* __Matthias Matzke: Towards a joint analysis of H.E.S.S. and <i>Fermi</i>-LAT data with Gammapy__
   * Master thesis, FAU Erlangen-Nürnberg, June 2022
-  * Link tba
 <p> </p>
 
 * __Tim Unbehaun: Joint-instrument analyses with Gammapy__
