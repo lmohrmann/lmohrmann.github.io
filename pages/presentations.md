@@ -9,6 +9,12 @@ tags: []
 
 #### Presentations
 
+* __2022-11-30 &nbsp;&nbsp; \| &nbsp;&nbsp; Morphological studies of star clusters using Imaging Atmospheric Cherenkov Telescopes__
+  * Invited talk at the 2nd HONEST workshop "PeVatrons and their environments"
+  * Online workshop with >200 registered participants
+  * <a href="/assets/talks/2022-11-30_LarsMohrmann_HONEST_StarClustersWithIACTs.pdf" target="_blank">Presentation (PDF, 15.4 MB)</a>
+<p> </p>
+
 * __2022-08-11 &nbsp;&nbsp; \| &nbsp;&nbsp; Measurements of Galactic γ-ray Sources with Imaging Atmospheric Cherenkov Telescopes__
   * Invited plenary talk at the TeV Particle Astrophysics (TeVPA) conference 2022
   * Kingston, Ontario, Canada, August 2022
