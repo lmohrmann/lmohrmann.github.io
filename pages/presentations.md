@@ -10,25 +10,25 @@ tags: []
 #### Presentations
 
 * __2022-11-30 &nbsp;&nbsp; \| &nbsp;&nbsp; Morphological studies of star clusters using Imaging Atmospheric Cherenkov Telescopes__
-  * Invited talk at the 2nd HONEST workshop "PeVatrons and their environments"
-  * Online workshop with >200 registered participants
+  * Invited talk at the <a href="https://indico.desy.de/event/34265" target="_blank">2nd HONEST workshop "PeVatrons and their environments"</a>
+  * Online workshop, November 2022
   * <a href="/assets/talks/2022-11-30_LarsMohrmann_HONEST_StarClustersWithIACTs.pdf" target="_blank">Presentation (PDF, 15.4 MB)</a>
 <p> </p>
 
 * __2022-08-11 &nbsp;&nbsp; \| &nbsp;&nbsp; Measurements of Galactic γ-ray Sources with Imaging Atmospheric Cherenkov Telescopes__
-  * Invited plenary talk at the TeV Particle Astrophysics (TeVPA) conference 2022
+  * Invited plenary talk at the <a href="https://indico.cern.ch/event/1082486" target="_blank">TeV Particle Astrophysics (TeVPA) conference 2022</a>
   * Kingston, Ontario, Canada, August 2022
   * <a href="/assets/talks/2022-08-11_LarsMohrmann_TeVPA2022.pdf" target="_blank">Presentation (PDF, 35.4 MB)</a>
 <p> </p>
 
 * __2022-07-26 &nbsp;&nbsp; \| &nbsp;&nbsp; Young massive stellar clusters as cosmic-ray sources: the case of Westerlund 1__
-  * Contributed talk at the 27th European Cosmic Ray Symposium (ECRS 2022)
+  * Contributed talk at the <a href="https://indico.nikhef.nl/event/2110" target="_blank">27th European Cosmic Ray Symposium (ECRS 2022)</a>
   * Nijmegen, Netherlands, July 2022
   * <a href="/assets/talks/2022-07-04_LarsMohrmann_ECRS2022_Nijmegen_Westerlund1.pdf" target="_blank">Presentation (PDF, 9 MB)</a>
 <p> </p>
 
 * __2022-07-04 &nbsp;&nbsp; \| &nbsp;&nbsp; Revisiting HESS J1809–193 — a very-high-energy gamma-ray source in a fascinating environment__
-  * Contributed talk at the 7th Heidelberg International Symposium on High-Energy Gamma-Ray Astronomy (Gamma 2022)
+  * Contributed talk at the <a href="https://indico.icc.ub.edu/event/46" target="_blank">7th Heidelberg International Symposium on High-Energy Gamma-Ray Astronomy (Gamma 2022)</a>
   * Barcelona, Spain, July 2022
   * <a href="/assets/talks/2022-07-04_LarsMohrmann_Gamma2022_Barcelona.pdf" target="_blank">Presentation (PDF, 12.9 MB)</a>
 <p> </p>
