@@ -13,6 +13,13 @@ Listed below are publications to which I have made direct contributions.
 As a member of the H.E.S.S. Collaboration and the CTA Consortium (and previously of the IceCube Collaboration), I have made indirect contributions to many more papers.
 See <a href="https://ui.adsabs.harvard.edu/public-libraries/O0Q1jhImQ1Cw1C6cJB1JVg" target="_blank">here</a> for a complete listing of my refereed journal publications.
 
+* __Understanding the TeV γ-ray emission surrounding the young massive star cluster Westerlund 1__
+  * L. K. Härer, B. Reville, J. Hinton, L. Mohrmann, T. Vieu
+  * Accepted for publication in Astronomy & Astrophysics (2023)
+  * Contributions: I have contributed to the discussions that have led to the conception of this paper, and helped improving the text and figures.
+  * <a href="https://arxiv.org/abs/2301.10496" target="_blank">arXiv</a>
+<p></p>
+
 * __A deep spectromorphological study of the γ-ray emission surrounding the young massive stellar cluster Westerlund 1__
   * F. Aharonian et al. (H.E.S.S. Collaboration)
   * Astronomy & Astrophysics __666__, A124 (2022)
