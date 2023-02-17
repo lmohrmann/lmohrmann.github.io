@@ -79,6 +79,12 @@ See <a href="https://ui.adsabs.harvard.edu/public-libraries/O0Q1jhImQ1Cw1C6cJB1J
 
 #### Conference proceedings
 
+* __Young massive stellar clusters as cosmic-ray sources: the case of Westerlund 1__
+  * L. Mohrmann for the H.E.S.S. Collaboration
+  * Proceedings of the 27th European Cosmic Ray Symposium (ECRS), 106 (2022).
+  * <a href="https://pos.sissa.it/423/106" target="_blank">PoS</a>
+<p></p>
+
 * __The young massive stellar cluster Westerlund 1 in γ rays as seen with H.E.S.S.__
   * L. Mohrmann, A. Specovius, R. Rauth et al. for the H.E.S.S. Collaboration
   * Proceedings of the 37th International Cosmic Ray Conference (ICRC), 789 (2021).
