@@ -12,7 +12,7 @@ favicon: assets/img/icon_milky_way.jpg                             # Icon displa
 header_text: Lars Mohrmann  # Change Blog header text
 header_subtitle: Researcher in <br> high-energy astrophysics
 header_feature_image: assets/img/HESS_GalacticPlane_AA_CoverImage_2018_reduced.png
-footer_text: © Copyright Lars Mohrmann 2022.
+footer_text: © Copyright Lars Mohrmann 2022–2023.
 
 # Blog
 excerpt: true                                           # Or "truncate" (first 250 characters), "false" to disable

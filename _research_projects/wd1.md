@@ -3,10 +3,12 @@ layout: post
 title: Westerlund 1
 feature-img: "assets/img/research_projects/wd1/wd1_banner.jpg"
 img: "assets/img/research_projects/wd1/wd1_thumb.png"
-id: 1
+order: 2
 ---
 
 #### Studying the massive star cluster Westerlund 1 with H.E.S.S.
+
+Added: July 26, 2022.
 
 <div><img src="/assets/img/research_projects/wd1/wd1_optical_xray.jpg" alt="The starburst cluster Westerlund 1 at visible and X-ray wavelengths" width="700" align="right" style="padding-top:1%;padding-left:2%;padding-right:2%;padding-bottom:2%"></div>
 
@@ -40,6 +42,8 @@ However, we cannot be sure about this, as also other explanations are compatible
 Another interesting outcome of the study is the energy spectrum of the emission around Westerlund 1, which is shown by the black points in the figure on the right.
 For the entire region, the spectrum of the gamma-ray emission extends to energies of almost 100 TeV, implying cosmic-ray energies well in excess of that.
 This again demonstrates that Westerlund 1 must be a very powerful cosmic-ray accelerator - for comparison, the most powerful man-made accelerator (the Large Hadron Collider at CERN) can accelerate protons to "only" 13 TeV.
+
+The analysis has been featured in a <a href="https://www.mpi-hd.mpg.de/hfm/HESS/pages/home/som/2022/08" target="_blank">H.E.S.S. Source of the Month article</a>.
 
 Paper reference: A&A <b>666</b>, A124 (2022).<br>
 DOI: <a href="https://doi.org/10.1051/0004-6361/202244323" target="_blank">10.1051/0004-6361/202244323</a><br>

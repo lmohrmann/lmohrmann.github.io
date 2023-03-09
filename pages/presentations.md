@@ -24,7 +24,7 @@ tags: []
 * __2022-07-26 &nbsp;&nbsp; \| &nbsp;&nbsp; Young massive stellar clusters as cosmic-ray sources: the case of Westerlund 1__
   * Contributed talk at the <a href="https://indico.nikhef.nl/event/2110" target="_blank">27th European Cosmic Ray Symposium (ECRS 2022)</a>
   * Nijmegen, Netherlands, July 2022
-  * <a href="/assets/talks/2022-07-04_LarsMohrmann_ECRS2022_Nijmegen_Westerlund1.pdf" target="_blank">Presentation (PDF, 9 MB)</a>
+  * <a href="/assets/talks/2022-07-04_LarsMohrmann_ECRS2022_Nijmegen_Westerlund1.pdf" target="_blank">Presentation (PDF, 9 MB)</a> &nbsp;&nbsp; \| &nbsp;&nbsp; <a href="https://pos.sissa.it/423/106" target="_blank">Proceedings paper</a>
 <p> </p>
 
 * __2022-07-04 &nbsp;&nbsp; \| &nbsp;&nbsp; Revisiting HESS J1809–193 — a very-high-energy gamma-ray source in a fascinating environment__

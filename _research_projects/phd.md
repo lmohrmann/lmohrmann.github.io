@@ -3,7 +3,7 @@ layout: post
 title: PhD project
 feature-img: "assets/img/research_projects/phd/phd_banner.png"
 img: "assets/img/research_projects/phd/phd_thumb.png"
-id: 2
+order: 3
 ---
 
 <!-- <h4 style="color:#cdd9e5;">Characterizing Cosmic Neutrino Sources</h4>
@@ -11,6 +11,8 @@ id: 2
 <h4 style="color:goldenrod;">Characterizing Cosmic Neutrino Sources</h4>
 <!-- <p style="color:#00af9e"> -->
 <p style="color:goldenrod;">A Measurement of the Energy Spectrum and Flavor Composition of the Cosmic Neutrino Flux Observed with the IceCube Neutrino Observatory </p>
+
+Added: July 26, 2022.
 
 <a href="https://edoc.hu-berlin.de/handle/18452/18029" target="_blank">Link to my PhD thesis</a>
 
