@@ -24,7 +24,7 @@ See <a href="https://ui.adsabs.harvard.edu/public-libraries/O0Q1jhImQ1Cw1C6cJB1J
   * L. K. Härer, B. Reville, J. Hinton, L. Mohrmann, T. Vieu
   * Astronomy & Astrophysics __671__, A4 (2023)
   * Contributions: I have contributed to the discussions that have led to the conception of this paper, and helped improving the text and figures.
-  * <a href="https://arxiv.org/abs/2301.10496" target="_blank">arXiv</a> &nbsp;&nbsp; \| &nbsp;&nbsp; <a href="https://doi.org/10.1051/0004-6361/202245444" target="_blank">DOI</a>
+  * <a href="https://ui.adsabs.harvard.edu/abs/2023A%26A...671A...4H/abstract" target="_blank">ADS</a> &nbsp;&nbsp; \| &nbsp;&nbsp; <a href="https://arxiv.org/abs/2301.10496" target="_blank">arXiv</a> &nbsp;&nbsp; \| &nbsp;&nbsp; <a href="https://doi.org/10.1051/0004-6361/202245444" target="_blank">DOI</a>
 <p></p>
 
 * __A deep spectromorphological study of the γ-ray emission surrounding the young massive stellar cluster Westerlund 1__
