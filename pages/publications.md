@@ -15,9 +15,9 @@ See <a href="https://ui.adsabs.harvard.edu/public-libraries/O0Q1jhImQ1Cw1C6cJB1J
 
 * __HESS J1809–193: A halo of escaped electrons around a pulsar wind nebula?__
   * F. Aharonian et al. (H.E.S.S. Collaboration)
-  * Accepted for publication in Astronomy & Astrophysics (2023)
+  * Astronomy & Astrophysics __672__, A103 (2023)
   * Contributions: I have carried out the H.E.S.S. data analysis, performed part of the modelling, and written the entire paper.
-  * <a href="https://arxiv.org/abs/2302.13663" target="_blank">arXiv</a> &nbsp;&nbsp; \| &nbsp;&nbsp; <a href="https://doi.org/10.1051/0004-6361/202245459" target="_blank">DOI</a>
+  * <a href="https://ui.adsabs.harvard.edu/abs/2023A%26A...672A.103H/abstract" target="_blank">ADS</a>  &nbsp;&nbsp; \| &nbsp;&nbsp; <a href="https://arxiv.org/abs/2302.13663" target="_blank">arXiv</a> &nbsp;&nbsp; \| &nbsp;&nbsp; <a href="https://doi.org/10.1051/0004-6361/202245459" target="_blank">DOI</a>
 <p></p>
 
 * __Understanding the TeV γ-ray emission surrounding the young massive star cluster Westerlund 1__
