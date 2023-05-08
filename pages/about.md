@@ -35,7 +35,7 @@ At my first PostDoc position at the Erlangen Centre for Astroparticle Physics, I
 With H.E.S.S., I study the sources of the highest-energy gamma rays in our Galaxy, the Milky Way.
 I also contributed to the development of a successor experiment to H.E.S.S., the [Cherenkov Telescope Array (CTA)]({% link _research_experiments/cta.md %}), which is going to be constructed during the next years in Chile and on the island of La Palma.
 
-Recently, I have moved to Heidelberg and am currently working at the Max Planck Institute for Nuclear Physics (MPIK), where I am still involved with the H.E.S.S. and CTA projects.
+Currently, I work at the Max Planck Institute for Nuclear Physics (MPIK) in Heidelberg, where I lead the H.E.S.S. group and am also still involved with the CTA project.
 
 When I'm not working, I enjoy spending time with my family, reading a good book, and photography.
 
