@@ -89,7 +89,7 @@ See <a href="https://ui.adsabs.harvard.edu/public-libraries/O0Q1jhImQ1Cw1C6cJB1J
 * __Revisiting HESS J1809–193 — a very-high-energy gamma-ray source in a fascinating environment__
   * L. Mohrmann, V. Joshi, J. Hinton, S. Funk for the H.E.S.S. Collaboration
   * Proceedings of the 7th Heidelberg International Symposium on High-Energy Gamma-Ray Astronomy (Gamma 2022), 030 (2022).
-  * <a href="https://pos.sissa.it/417/030" target="_blank">PoS</a>
+  * <a href="https://pos.sissa.it/417/030" target="_blank">PoS</a> &nbsp;&nbsp; \| &nbsp;&nbsp; <a href="https://arxiv.org/abs/2301.07366" target="_blank">arXiv</a>
 <p></p>
 
 * __Young massive stellar clusters as cosmic-ray sources: the case of Westerlund 1__
