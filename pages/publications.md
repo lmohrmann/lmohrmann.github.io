@@ -13,6 +13,13 @@ Listed below are publications to which I have made direct contributions.
 As a member of the H.E.S.S. Collaboration and the CTA Consortium (and previously of the IceCube Collaboration), I have made indirect contributions to many more papers.
 See <a href="https://ui.adsabs.harvard.edu/public-libraries/O0Q1jhImQ1Cw1C6cJB1JVg" target="_blank">here</a> for a complete listing of my refereed journal publications.
 
+* __Detection of extended γ-ray emission around the Geminga pulsar with H.E.S.S.__
+  * F. Aharonian et al. (H.E.S.S. Collaboration)
+  * Astronomy & Astrophysics __673__, A148 (2023)
+  * Contributions: I have acted as H.E.S.S.-internal reviewer of the analysis results.
+  * <a href="https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.148H/abstract" target="_blank">ADS</a> &nbsp;&nbsp; \| &nbsp;&nbsp; <a href="https://arxiv.org/abs/2304.02631" target="_blank">arXiv</a> &nbsp;&nbsp; \| &nbsp;&nbsp; <a href="https://doi.org/10.1051/0004-6361/202245776" target="_blank">DOI</a>
+<p></p>
+
 * __HESS J1809–193: A halo of escaped electrons around a pulsar wind nebula?__
   * F. Aharonian et al. (H.E.S.S. Collaboration)
   * Astronomy & Astrophysics __672__, A103 (2023)
