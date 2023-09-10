@@ -7,11 +7,28 @@ order: 4
 tags: []
 ---
 
+#### Book chapters
+
+* __Analysis Methods for Gamma-ray Astronomy__
+  * Denys Malyshev, Lars Mohrmann
+  * Invited contribution to the "Handbook of X-ray and Gamma-ray Astrophysics" (Eds. C. Bambi and A. Santangelo, Springer Singapore, expected in 2023)
+  * Contributions: I wrote section 2 and edited sections 1 and 3.
+  * <a href="https://arxiv.org/abs/2309.02966" target="_blank">arXiv</a>
+<p></p>
+
+
 #### Journal publications
 
 Listed below are publications to which I have made direct contributions.
 As a member of the H.E.S.S. Collaboration and the CTA Consortium (and previously of the IceCube Collaboration), I have made indirect contributions to many more papers.
 See <a href="https://ui.adsabs.harvard.edu/public-libraries/O0Q1jhImQ1Cw1C6cJB1JVg" target="_blank">here</a> for a complete listing of my refereed journal publications.
+
+* __Prospects for combined analyses of hadronic emission from γ-ray sources in the Milky Way with CTA and KM3NeT__
+  * T. Unbehaun, L. Mohrmann, S. Funk (authors of the CTA Consortium), S. Aiello et al. (KM3NeT Collaboration)
+  * Submitted to journal
+  * Contributions: I conceived of and supervised the project, participated in developing the analysis code, and wrote most of the paper.
+  * <a href="https://arxiv.org/abs/2309.03007" target="_blank">arXiv</a>
+<p></p>
 
 * __Detection of extended γ-ray emission around the Geminga pulsar with H.E.S.S.__
   * F. Aharonian et al. (H.E.S.S. Collaboration)
