@@ -9,6 +9,18 @@ tags: []
 
 #### Presentations
 
+* __2023-09-11 &nbsp;&nbsp; \| &nbsp;&nbsp; Detection of the young massive star cluster R136 with H.E.S.S.__
+  * Contributed talk at the <a href="https://agenda.infn.it/event/33457" target="_blank">TeV Particle Astrophysics (TeVPA) conference 2023</a>
+  * Napoli, Italy, September 2023
+  * <a href="/assets/talks/2023-09-11_LarsMohrmann_TeVPA2023_Napoli_R136.pdf" target="_blank">Presentation (PDF, 24.3 MB)</a>
+<p></p>
+
+* __2023-09-11 &nbsp;&nbsp; \| &nbsp;&nbsp; A joint Fermi-LAT and H.E.S.S. analysis of the Crab nebula__
+  * Contributed talk at the <a href="https://agenda.infn.it/event/33457" target="_blank">TeV Particle Astrophysics (TeVPA) conference 2023</a>
+  * Napoli, Italy, September 2023
+  * <a href="/assets/talks/2023-09-11_LarsMohrmann_TeVPA2023_Napoli_CrabFermiHESS.pdf" target="_blank">Presentation (PDF, 12.6 MB)</a>
+<p></p>
+
 * __2022-11-30 &nbsp;&nbsp; \| &nbsp;&nbsp; Morphological studies of star clusters using Imaging Atmospheric Cherenkov Telescopes__
   * Invited talk at the <a href="https://indico.desy.de/event/34265" target="_blank">2nd HONEST workshop "PeVatrons and their environments"</a>
   * Online workshop, November 2022
