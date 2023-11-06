@@ -11,9 +11,9 @@ tags: []
 
 * __Analysis Methods for Gamma-ray Astronomy__
   * Denys Malyshev, Lars Mohrmann
-  * Invited contribution to the "Handbook of X-ray and Gamma-ray Astrophysics" (Eds. C. Bambi and A. Santangelo, Springer Singapore, expected in 2023)
+  * Invited contribution to the "Handbook of X-ray and Gamma-ray Astrophysics" (Eds. C. Bambi and A. Santangelo, Springer Singapore, 2024)
   * Contributions: I wrote section 2 and edited sections 1 and 3.
-  * <a href="https://arxiv.org/abs/2309.02966" target="_blank">arXiv</a>
+  * <a href="https://arxiv.org/abs/2309.02966" target="_blank">arXiv</a> &nbsp;&nbsp; \| &nbsp;&nbsp; <a href="https://doi.org/10.1007/978-981-16-4544-0_177-1" target="_blank">DOI</a>
 <p></p>
 
 
