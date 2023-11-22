@@ -25,7 +25,7 @@ See <a href="https://ui.adsabs.harvard.edu/public-libraries/O0Q1jhImQ1Cw1C6cJB1J
 
 * __Prospects for combined analyses of hadronic emission from γ-ray sources in the Milky Way with CTA and KM3NeT__
   * T. Unbehaun, L. Mohrmann, S. Funk (authors of the CTA Consortium), S. Aiello et al. (KM3NeT Collaboration)
-  * Submitted to journal
+  * Accepted for publication in the European Physical Journal C
   * Contributions: I conceived of and supervised the project, participated in developing the analysis code, and wrote most of the paper.
   * <a href="https://arxiv.org/abs/2309.03007" target="_blank">arXiv</a>
 <p></p>
