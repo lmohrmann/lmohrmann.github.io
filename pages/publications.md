@@ -16,6 +16,12 @@ tags: []
   * <a href="https://arxiv.org/abs/2309.02966" target="_blank">arXiv</a> &nbsp;&nbsp; \| &nbsp;&nbsp; <a href="https://doi.org/10.1007/978-981-16-4544-0_177-1" target="_blank">DOI</a>
 <p></p>
 
+* __Astronomie bei hohen Energien: 20 Jahre H.E.S.S.__
+  * Lars Mohrmann
+  * <a href="https://www.spektrum.de/inhaltsverzeichnis/jubilaeum-20-jahre-h-e-s-s-sterne-und-weltraum-12-2023/2099391" target="_blank">Sterne und Weltraum 12/2023</a>
+  * 8-page review article in German popular science magazine
+<p></p>
+
 
 #### Journal publications
 
@@ -32,9 +38,9 @@ See <a href="https://ui.adsabs.harvard.edu/public-libraries/O0Q1jhImQ1Cw1C6cJB1J
 
 * __Discovery of a radiation component from the Vela pulsar reaching 20 teraelectronvolts__
   * F. Aharonian et al. (H.E.S.S. Collaboration), R. Zanin, M. Kerr, S. Johnston, R. M. Shannon, D. A. Smith
-  * Nature Astronomy (2023)
+  * Nature Astronomy __7__, 1341-1350 (2023)
   * Contributions: I carried out a cross-check of the analysis results and contributed to the writing of the manuscript.
-  * <a href="https://arxiv.org/abs/2310.06181" target="_blank">arXiv</a> &nbsp;&nbsp; \| &nbsp;&nbsp; <a href="https://doi.org/10.1038/s41550-023-02052-3" target="_blank">DOI</a>
+  * <a href="https://ui.adsabs.harvard.edu/abs/2023NatAs...7.1341H/abstract" target="_blank">ADS</a> &nbsp;&nbsp; \| &nbsp;&nbsp; <a href="https://arxiv.org/abs/2310.06181" target="_blank">arXiv</a> &nbsp;&nbsp; \| &nbsp;&nbsp; <a href="https://doi.org/10.1038/s41550-023-02052-3" target="_blank">DOI</a>
 <p></p>
 
 * __Detection of extended γ-ray emission around the Geminga pulsar with H.E.S.S.__
