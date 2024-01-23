@@ -3,7 +3,7 @@ layout: post
 title: Westerlund 1
 feature-img: "assets/img/research_projects/wd1/wd1_banner.jpg"
 img: "assets/img/research_projects/wd1/wd1_thumb.png"
-order: 2
+order: 3
 ---
 
 #### Studying the massive star cluster Westerlund 1 with H.E.S.S.
