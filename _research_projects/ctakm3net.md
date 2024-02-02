@@ -11,7 +11,7 @@ order: 1
 Added: January 23, 2024.
 
 Like [CTA]({% link _research_experiments/cta.md %}) is for gamma-ray astronomy, <a href="https://www.km3net.org" target="_blank">KM3NeT</a> is a major upcoming observatory for neutrino astronomy.
-In a new study appearing in the European Physical Journal C, I have demonstrated with collaborators how one can jointly analyse data from these two facilities in a consistent manner.
+In a new <a href="https://doi.org/10.1140/epjc/s10052-023-12279-z" target="_blank">study appearing in the European Physical Journal C</a>, I have demonstrated with collaborators how one can jointly analyse data from these two facilities in a consistent manner.
 
 The motivation for combining gamma-ray and neutrino data becomes clear when considering that these particles are produced simultaneously in many astrophysical environments.
 In fact, whereever cosmic-ray nuclei are accelerated to very high energies, one expects joint production of gamma rays and neutrinos.
@@ -45,6 +45,6 @@ The blue and red bands show how the fractions <i>f</i> we obtain in the 100 pseu
 The black intervals on the other hand display an average of the "credible intervals" that we derive from the likelihood analysis for each pseudo experiment.
 The smaller these intervals, the better we can constrain the hadronic fraction <i>f</i> for this source.
 
-Paper reference: European Physical Journal C, accepted.<br>
-<!-- DOI: <a href="https://doi.org/10.1051/0004-6361/202245459" target="_blank">10.1051/0004-6361/202245459</a><br> -->
+Paper reference: European Physical Journal C __84__, 112 (2024)<br>
+DOI: <a href="https://doi.org/10.1140/epjc/s10052-023-12279-z" target="_blank">10.1140/epjc/s10052-023-12279-z</a><br>
 Pre-print: <a href="https://arxiv.org/abs/2309.03007" target="_blank">arXiv:2309.03007</a>
