@@ -33,7 +33,7 @@ See <a href="https://ui.adsabs.harvard.edu/public-libraries/O0Q1jhImQ1Cw1C6cJB1J
   * T. Unbehaun, L. Mohrmann, S. Funk (authors of the CTA Consortium), S. Aiello et al. (KM3NeT Collaboration)
   * European Physical Journal C __84__, 112 (2024)
   * Contributions: I conceived of and supervised the project, participated in developing the analysis code, and wrote most of the paper.
-  * <a href="https://arxiv.org/abs/2309.03007" target="_blank">arXiv</a> &nbsp;&nbsp; \| &nbsp;&nbsp; <a href="https://doi.org/10.1140/epjc/s10052-023-12279-z" target="_blank">DOI</a>
+  * <a href="https://ui.adsabs.harvard.edu/abs/2024EPJC...84..112U/abstract" target="_blank">ADS</a> &nbsp;&nbsp; \| &nbsp;&nbsp; <a href="https://arxiv.org/abs/2309.03007" target="_blank">arXiv</a> &nbsp;&nbsp; \| &nbsp;&nbsp; <a href="https://doi.org/10.1140/epjc/s10052-023-12279-z" target="_blank">DOI</a>
 <p></p>
 
 * __Discovery of a radiation component from the Vela pulsar reaching 20 teraelectronvolts__
