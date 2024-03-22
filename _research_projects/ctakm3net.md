@@ -3,7 +3,7 @@ layout: post
 title: A joint CTA / KM3NeT analysis
 feature-img: "assets/img/research_projects/ctakm3net/ctakm3net_banner.png"
 img: "assets/img/research_projects/ctakm3net/ctakm3net_thumb.png"
-order: 1
+order: 2
 ---
 
 #### A joint gamma-ray and neutrino analysis with CTA and KM3NeT
