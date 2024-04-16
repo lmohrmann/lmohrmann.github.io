@@ -11,6 +11,14 @@ tags: []
 
 Below is a collection of Bachelor and Master theses that I have supervised at the University of Erlangen-Nürnberg.
 
+* __Anita Deka Baruah: Improvements to the Reconstruction of Monoscopic Events in H.E.S.S., with Application to the Analysis of a Flare of the Blazar PKS 0903-57__
+  * Master thesis, IISER Tirupati, India, March 2024 (project carried out at MPIK Heidelberg)
+<p> </p>
+
+* __Prajath B R: Improving H.E.S.S monoscopic gamma-hadron separation at low energies and application to Vela pulsar__
+  * Master thesis, IISER Tirupati, India, March 2024 (project carried out at MPIK Heidelberg)
+<p> </p>
+
 * __Matthias Matzke: Towards a joint analysis of H.E.S.S. and <i>Fermi</i>-LAT data with Gammapy__
   * Master thesis, FAU Erlangen-Nürnberg, June 2022
 <p> </p>
