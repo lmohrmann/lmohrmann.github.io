@@ -13,10 +13,12 @@ Below is a collection of Bachelor and Master theses that I have supervised at th
 
 * __Anita Deka Baruah: Improvements to the Reconstruction of Monoscopic Events in H.E.S.S., with Application to the Analysis of a Flare of the Blazar PKS 0903-57__
   * Master thesis, IISER Tirupati, India, March 2024 (project carried out at MPIK Heidelberg)
+  * <a href="/assets/theses/2024-04_master_thesis_anita_deka_baruah.pdf" target="_blank">Link to thesis (PDF, 8.4 MB)</a>
 <p> </p>
 
 * __Prajath B R: Improving H.E.S.S monoscopic gamma-hadron separation at low energies and application to Vela pulsar__
   * Master thesis, IISER Tirupati, India, March 2024 (project carried out at MPIK Heidelberg)
+  * <a href="/assets/theses/2024-04_master_thesis_prajath_br.pdf" target="_blank">Link to thesis (PDF, 13 MB)</a>
 <p> </p>
 
 * __Matthias Matzke: Towards a joint analysis of H.E.S.S. and <i>Fermi</i>-LAT data with Gammapy__
