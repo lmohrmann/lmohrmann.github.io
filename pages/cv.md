@@ -36,6 +36,11 @@ tags: []
 
 * __11/2011 - 08/2015__ &nbsp;&nbsp; \| &nbsp;&nbsp; Research associate at _DESY, Zeuthen_
 
+#### Reviewer Assignments
+
+* Worked as a reviewer for the Astrophysical Journal, Astronomy & Astrophysics, and the Dutch Research Council.
+
+
 #### Awards
 
 * __2019__ &nbsp;&nbsp; \| &nbsp;&nbsp; H.E.S.S. Prize Spring 2019
