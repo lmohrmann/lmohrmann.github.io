@@ -49,6 +49,6 @@ Besides that, the analysis also serves as an example case for multi-instrument a
 
 <!-- HESS J1809–193 has been selected as the <a href="https://www.mpi-hd.mpg.de/hfm/HESS/pages/home/som/2023/03" target="_blank">March 2023 H.E.S.S. Source of the Month</a>. -->
 
-Paper reference: A&A (forthcoming)<!-- <b>672</b>, A103 (2023)-->.<br>
+Paper reference: A&A <b>686</b>, A308 (2024).<br>
 DOI: <a href="https://doi.org/10.1051/0004-6361/202348651" target="_blank">10.1051/0004-6361/202348651</a><br>
 Pre-print: <a href="https://arxiv.org/abs/2403.12608" target="_blank">arXiv:2403.12608</a>

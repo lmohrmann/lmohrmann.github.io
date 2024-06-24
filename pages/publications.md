@@ -31,7 +31,7 @@ See <a href="https://ui.adsabs.harvard.edu/public-libraries/O0Q1jhImQ1Cw1C6cJB1J
 
 * __Spectrum and extension of the inverse-Compton emission of the Crab Nebula from a combined Fermi-LAT and H.E.S.S. analysis__
   * F. Aharonian et al. (H.E.S.S. Collaboration), A. Harding
-  * Accepted for publication in Astronomy and Astrophysics (2024)
+  * Astronomy & Astrophysics __686__, A308 (2024)
   * Contributions: I initiated and co-supervised the project, prepared the H.E.S.S. data and assisted in the analysis, and led the paper writing.
   * <a href="https://arxiv.org/abs/2403.12608" target="_blank">arXiv</a> &nbsp;&nbsp; \| &nbsp;&nbsp; <a href="https://doi.org/10.1051/0004-6361/202348651" target="_blank">DOI</a>
 <p></p>
