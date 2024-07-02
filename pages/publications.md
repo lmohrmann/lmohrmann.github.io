@@ -33,7 +33,7 @@ See <a href="https://ui.adsabs.harvard.edu/public-libraries/O0Q1jhImQ1Cw1C6cJB1J
   * F. Aharonian et al. (H.E.S.S. Collaboration), A. Harding
   * Astronomy & Astrophysics __686__, A308 (2024)
   * Contributions: I initiated and co-supervised the project, prepared the H.E.S.S. data and assisted in the analysis, and led the paper writing.
-  * <a href="https://arxiv.org/abs/2403.12608" target="_blank">arXiv</a> &nbsp;&nbsp; \| &nbsp;&nbsp; <a href="https://doi.org/10.1051/0004-6361/202348651" target="_blank">DOI</a>
+  * <a href="https://ui.adsabs.harvard.edu/abs/2024A%26A...686A.308A/abstract" target="_blank">ADS</a> &nbsp;&nbsp; \| &nbsp;&nbsp; <a href="https://arxiv.org/abs/2403.12608" target="_blank">arXiv</a> &nbsp;&nbsp; \| &nbsp;&nbsp; <a href="https://doi.org/10.1051/0004-6361/202348651" target="_blank">DOI</a>
 <p></p>
 
 * __Prospects for combined analyses of hadronic emission from γ-ray sources in the Milky Way with CTA and KM3NeT__
