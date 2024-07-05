@@ -74,7 +74,7 @@ See <a href="https://ui.adsabs.harvard.edu/public-libraries/O0Q1jhImQ1Cw1C6cJB1J
 * __A deep spectromorphological study of the γ-ray emission surrounding the young massive stellar cluster Westerlund 1__
   * F. Aharonian et al. (H.E.S.S. Collaboration)
   * Astronomy & Astrophysics __666__, A124 (2022)
-  * Contributions: I have lead the data analysis and have written the entire paper.
+  * Contributions: I have led the data analysis and have written the entire paper.
   * <a href="https://ui.adsabs.harvard.edu/abs/2022A%26A...666A.124A/abstract" target="_blank">ADS</a> &nbsp;&nbsp; \| &nbsp;&nbsp; <a href="https://arxiv.org/abs/2207.10921" target="_blank">arXiv</a> &nbsp;&nbsp; \| &nbsp;&nbsp; <a href="https://doi.org/10.1051/0004-6361/202244323" target="_blank">DOI</a>
 <p> </p>
 
