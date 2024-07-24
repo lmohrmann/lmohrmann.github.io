@@ -3,7 +3,7 @@ layout: post
 title: PhD project
 feature-img: "assets/img/research_projects/phd/phd_banner.png"
 img: "assets/img/research_projects/phd/phd_thumb.png"
-order: 5
+order: 6
 ---
 
 <!-- <h4 style="color:#cdd9e5;">Characterizing Cosmic Neutrino Sources</h4>

@@ -3,7 +3,7 @@ layout: post
 title: The size of the Crab Nebula measured with Fermi-LAT and H.E.S.S.
 feature-img: "assets/img/research_projects/crabfermihess/crab_banner.png"
 img: "assets/img/research_projects/crabfermihess/crab_thumb.png"
-order: 1
+order: 2
 ---
 
 #### A joint _Fermi_-LAT and H.E.S.S. analysis of the Crab Nebula
@@ -46,8 +46,6 @@ The "variable _B_-field model", depicted by the black lines, yields the best fit
 </div>
 
 Besides that, the analysis also serves as an example case for multi-instrument analyses with Gammapy – an approach that promises new insights for many other gamma-ray sources as well.
-
-<!-- HESS J1809–193 has been selected as the <a href="https://www.mpi-hd.mpg.de/hfm/HESS/pages/home/som/2023/03" target="_blank">March 2023 H.E.S.S. Source of the Month</a>. -->
 
 Paper reference: A&A <b>686</b>, A308 (2024).<br>
 DOI: <a href="https://doi.org/10.1051/0004-6361/202348651" target="_blank">10.1051/0004-6361/202348651</a><br>

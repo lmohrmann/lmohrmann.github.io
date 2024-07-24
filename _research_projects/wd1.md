@@ -3,7 +3,7 @@ layout: post
 title: Westerlund 1
 feature-img: "assets/img/research_projects/wd1/wd1_banner.jpg"
 img: "assets/img/research_projects/wd1/wd1_thumb.png"
-order: 4
+order: 5
 ---
 
 #### Studying the massive star cluster Westerlund 1 with H.E.S.S.
@@ -26,7 +26,7 @@ Indeed, the H.E.S.S. Collaboration has published a <a href="https://ui.adsabs.ha
 Similarly, gamma-ray sources have been found also close to other star clusters in our Galaxy.
 However, it is unclear how (and where) exactly these star clusters accelerate cosmic rays, and by which mechanism the gamma rays are produced.
 H.E.S.S. has therefore performed deeper observations of Westerlund 1, resulting in a data set almost five times larger than that available for the 2012 paper.
-I have lead the data analysis of this new data set, which has recently been <a href="https://doi.org/10.1051/0004-6361/202244323" target="_blank">published in Astronomy & Astrophysics</a>.
+I have led the data analysis of this new data set, which has recently been <a href="https://doi.org/10.1051/0004-6361/202244323" target="_blank">published in Astronomy & Astrophysics</a>.
 
 <div><img src="/assets/img/research_projects/wd1/hess_wd1_flux_map.png" alt="H.E.S.S. flux map of the Westerlund 1 region" width="500" align="left" style="padding-top:1%;padding-left:2%;padding-right:2%;padding-bottom:2%"></div>
 

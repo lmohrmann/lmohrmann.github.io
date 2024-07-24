@@ -29,6 +29,13 @@ Listed below are publications to which I have made direct contributions.
 As a member of the H.E.S.S. Collaboration and the CTA Consortium (and previously of the IceCube Collaboration), I have made indirect contributions to many more papers.
 See <a href="https://ui.adsabs.harvard.edu/public-libraries/O0Q1jhImQ1Cw1C6cJB1JVg" target="_blank">here</a> for a complete listing of my refereed journal publications.
 
+* __Very-high-energy γ-Ray Emission from Young Massive Star Clusters in the Large Magellanic Cloud__
+  * F. Aharonian et al. (H.E.S.S. Collaboration)
+  * Astrophysical Journal Letters __970__, L21 (2024)
+  * Contributions: I performed the main data analysis, carried out the modelling, and wrote the paper.
+  * <a href="https://arxiv.org/abs/2407.16219" target="_blank">arXiv</a> &nbsp;&nbsp; \| &nbsp;&nbsp; <a href="https://doi.org/10.3847/2041-8213/ad5e67" target="_blank">DOI</a>
+<p></p>
+
 * __Spectrum and extension of the inverse-Compton emission of the Crab Nebula from a combined Fermi-LAT and H.E.S.S. analysis__
   * F. Aharonian et al. (H.E.S.S. Collaboration), A. Harding
   * Astronomy & Astrophysics __686__, A308 (2024)
