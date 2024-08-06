@@ -13,7 +13,7 @@ tags: []
   * Denys Malyshev, Lars Mohrmann
   * Invited contribution to the "Handbook of X-ray and Gamma-ray Astrophysics" (Eds. C. Bambi and A. Santangelo, Springer Singapore, 2024)
   * Contributions: I wrote section 2 and edited sections 1 and 3.
-  * <a href="https://arxiv.org/abs/2309.02966" target="_blank">arXiv</a> &nbsp;&nbsp; \| &nbsp;&nbsp; <a href="https://doi.org/10.1007/978-981-16-4544-0_177-1" target="_blank">DOI</a>
+  * <a href="https://ui.adsabs.harvard.edu/abs/2023hxga.book..137M/abstract" target="_blank">ADS</a> &nbsp;&nbsp; \| &nbsp;&nbsp; <a href="https://arxiv.org/abs/2309.02966" target="_blank">arXiv</a> &nbsp;&nbsp; \| &nbsp;&nbsp; <a href="https://doi.org/10.1007/978-981-16-4544-0_177-1" target="_blank">DOI</a>
 <p></p>
 
 * __Astronomie bei hohen Energien: 20 Jahre H.E.S.S.__
@@ -28,6 +28,13 @@ tags: []
 Listed below are publications to which I have made direct contributions.
 As a member of the H.E.S.S. Collaboration and the CTA Consortium (and previously of the IceCube Collaboration), I have made indirect contributions to many more papers.
 See <a href="https://ui.adsabs.harvard.edu/public-libraries/O0Q1jhImQ1Cw1C6cJB1JVg" target="_blank">here</a> for a complete listing of my refereed journal publications.
+
+* __Extended gamma-ray emission from particle escape in pulsar wind nebulae. Application to HESS J1809–193 and HESS J1825–137__
+  * P. Martin, L. de Guillebon, E. Collard, I. Mertz, L. Mohrmann, G. Principe, M. Lemoine-Goumard, A. Marcowith, R. Terrier, M. D. Filipovic
+  * Accepted for publication in Astronomy & Astrophysics (2024)
+  * Contributions: I helped with the usage of H.E.S.S. results and provided feedback on the manuscript.
+  * <a href="https://arxiv.org/abs/2407.07583" target="_blank">arXiv</a> &nbsp;&nbsp; \| &nbsp;&nbsp; <a href="https://doi.org/10.1051/0004-6361/202450254" target="_blank">DOI</a>
+<p></p>
 
 * __Very-high-energy γ-Ray Emission from Young Massive Star Clusters in the Large Magellanic Cloud__
   * F. Aharonian et al. (H.E.S.S. Collaboration)
