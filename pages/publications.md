@@ -29,6 +29,13 @@ Listed below are publications to which I have made direct contributions.
 As a member of the H.E.S.S. Collaboration and the CTA Consortium (and previously of the IceCube Collaboration), I have made indirect contributions to many more papers.
 See <a href="https://ui.adsabs.harvard.edu/public-libraries/O0Q1jhImQ1Cw1C6cJB1JVg" target="_blank">here</a> for a complete listing of my refereed journal publications.
 
+* __A background-estimation technique for the detection of extended gamma-ray structures with IACTs__
+  * T. Wach, A. Mitchell, L. Mohrmann
+  * Accepted for publication in Astronomy & Astrophysics (2024)
+  * Contributions: I advised the lead author, Tina Wach, throughout the project and provided feedback on the manuscript.
+  * <a href="https://arxiv.org/abs/2409.02527" target="_blank">arXiv</a>
+<p></p>
+
 * __Extended gamma-ray emission from particle escape in pulsar wind nebulae. Application to HESS J1809–193 and HESS J1825–137__
   * P. Martin, L. de Guillebon, E. Collard, I. Mertz, L. Mohrmann, G. Principe, M. Lemoine-Goumard, A. Marcowith, R. Terrier, M. D. Filipovic
   * Accepted for publication in Astronomy & Astrophysics (2024)
