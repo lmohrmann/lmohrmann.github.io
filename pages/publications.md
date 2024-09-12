@@ -33,7 +33,7 @@ See <a href="https://ui.adsabs.harvard.edu/public-libraries/O0Q1jhImQ1Cw1C6cJB1J
   * T. Wach, A. Mitchell, L. Mohrmann
   * Accepted for publication in Astronomy & Astrophysics (2024)
   * Contributions: I advised the lead author, Tina Wach, throughout the project and provided feedback on the manuscript.
-  * <a href="https://arxiv.org/abs/2409.02527" target="_blank">arXiv</a>
+  * <a href="https://arxiv.org/abs/2409.02527" target="_blank">arXiv</a> &nbsp;&nbsp; \| &nbsp;&nbsp; <a href="https://doi.org/10.1051/0004-6361/202451020" target="_blank">DOI</a>
 <p></p>
 
 * __Extended gamma-ray emission from particle escape in pulsar wind nebulae. Application to HESS J1809–193 and HESS J1825–137__
