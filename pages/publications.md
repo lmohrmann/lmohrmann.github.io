@@ -151,10 +151,22 @@ See <a href="https://ui.adsabs.harvard.edu/public-libraries/O0Q1jhImQ1Cw1C6cJB1J
 
 #### Conference proceedings
 
+* __Particle acceleration in superbubbles: MHD simulations and γ-ray signatures__
+  * L. Härer, B. Reville, T. Vieu, J. Hinton, L. Mohrmann, J. Wang
+  * Proceedings of the 38th International Cosmic Ray Conference (ICRC), 854 (2023).
+  * <a href="https://pos.sissa.it/444/854" target="_blank">PoS</a>
+<p></p>
+
 * __Revisiting HESS J1809–193 — a very-high-energy gamma-ray source in a fascinating environment__
   * L. Mohrmann, V. Joshi, J. Hinton, S. Funk for the H.E.S.S. Collaboration
   * Proceedings of the 7th Heidelberg International Symposium on High-Energy Gamma-Ray Astronomy (Gamma 2022), 030 (2022).
   * <a href="https://pos.sissa.it/417/030" target="_blank">PoS</a> &nbsp;&nbsp; \| &nbsp;&nbsp; <a href="https://arxiv.org/abs/2301.07366" target="_blank">arXiv</a>
+<p></p>
+
+* __Understanding the Gamma Ray Emission around Westerlund 1__
+  * L. Härer, B. Reville, J. Hinton, L. Mohrmann, T. Vieu
+  * Proceedings of the 7th Heidelberg International Symposium on High-Energy Gamma-Ray Astronomy (Gamma 2022), 152 (2022).
+  * <a href="https://pos.sissa.it/417/152" target="_blank">PoS</a>
 <p></p>
 
 * __Young massive stellar clusters as cosmic-ray sources: the case of Westerlund 1__
