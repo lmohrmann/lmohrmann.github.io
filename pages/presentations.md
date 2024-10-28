@@ -9,6 +9,12 @@ tags: []
 
 #### Presentations
 
+* __2024-10-28 &nbsp;&nbsp; \| &nbsp;&nbsp; Recent results on gamma-ray emission from massive star clusters as detected with H.E.S.S.__
+  * Invited talk at the <a href="https://indico.ict.inaf.it/event/2878" target="_blank">TOSCA workshop 2024</a>
+  * Siena, Italy, October 2024
+  * <a href="/assets/talks/2024-10-28_LarsMohrmann_TOSCA_StarClustersHESS.pdf" target="_blank">Presentation (PDF, 32.1 MB)</a>
+<p></p>
+
 * __2023-09-11 &nbsp;&nbsp; \| &nbsp;&nbsp; Detection of the young massive star cluster R136 with H.E.S.S.__
   * Contributed talk at the <a href="https://agenda.infn.it/event/33457" target="_blank">TeV Particle Astrophysics (TeVPA) conference 2023</a>
   * Napoli, Italy, September 2023
