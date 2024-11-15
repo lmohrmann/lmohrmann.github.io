@@ -74,77 +74,77 @@ See <a href="https://ui.adsabs.harvard.edu/public-libraries/O0Q1jhImQ1Cw1C6cJB1J
 * __Detection of extended γ-ray emission around the Geminga pulsar with H.E.S.S.__
   * F. Aharonian et al. (H.E.S.S. Collaboration)
   * Astronomy & Astrophysics __673__, A148 (2023)
-  * Contributions: I have acted as H.E.S.S.-internal reviewer of the analysis results.
+  * Contributions: I acted as H.E.S.S.-internal reviewer of the analysis results.
   * <a href="https://ui.adsabs.harvard.edu/abs/2023A%26A...673A.148H/abstract" target="_blank">ADS</a> &nbsp;&nbsp; \| &nbsp;&nbsp; <a href="https://arxiv.org/abs/2304.02631" target="_blank">arXiv</a> &nbsp;&nbsp; \| &nbsp;&nbsp; <a href="https://doi.org/10.1051/0004-6361/202245776" target="_blank">DOI</a>
 <p></p>
 
 * __HESS J1809–193: A halo of escaped electrons around a pulsar wind nebula?__
   * F. Aharonian et al. (H.E.S.S. Collaboration)
   * Astronomy & Astrophysics __672__, A103 (2023)
-  * Contributions: I have carried out the H.E.S.S. data analysis, performed part of the modelling, and written the entire paper.
+  * Contributions: I carried out the H.E.S.S. data analysis, performed part of the modelling, and wrote the entire paper.
   * <a href="https://ui.adsabs.harvard.edu/abs/2023A%26A...672A.103H/abstract" target="_blank">ADS</a>  &nbsp;&nbsp; \| &nbsp;&nbsp; <a href="https://arxiv.org/abs/2302.13663" target="_blank">arXiv</a> &nbsp;&nbsp; \| &nbsp;&nbsp; <a href="https://doi.org/10.1051/0004-6361/202245459" target="_blank">DOI</a>
 <p></p>
 
 * __Understanding the TeV γ-ray emission surrounding the young massive star cluster Westerlund 1__
   * L. K. Härer, B. Reville, J. Hinton, L. Mohrmann, T. Vieu
   * Astronomy & Astrophysics __671__, A4 (2023)
-  * Contributions: I have contributed to the discussions that have led to the conception of this paper, and helped improving the text and figures.
+  * Contributions: I contributed to discussions that led to the conception of this paper, and helped improving the text and figures.
   * <a href="https://ui.adsabs.harvard.edu/abs/2023A%26A...671A...4H/abstract" target="_blank">ADS</a> &nbsp;&nbsp; \| &nbsp;&nbsp; <a href="https://arxiv.org/abs/2301.10496" target="_blank">arXiv</a> &nbsp;&nbsp; \| &nbsp;&nbsp; <a href="https://doi.org/10.1051/0004-6361/202245444" target="_blank">DOI</a>
 <p></p>
 
 * __A deep spectromorphological study of the γ-ray emission surrounding the young massive stellar cluster Westerlund 1__
   * F. Aharonian et al. (H.E.S.S. Collaboration)
   * Astronomy & Astrophysics __666__, A124 (2022)
-  * Contributions: I have led the data analysis and have written the entire paper.
+  * Contributions: I led the data analysis and wrote the entire paper.
   * <a href="https://ui.adsabs.harvard.edu/abs/2022A%26A...666A.124A/abstract" target="_blank">ADS</a> &nbsp;&nbsp; \| &nbsp;&nbsp; <a href="https://arxiv.org/abs/2207.10921" target="_blank">arXiv</a> &nbsp;&nbsp; \| &nbsp;&nbsp; <a href="https://doi.org/10.1051/0004-6361/202244323" target="_blank">DOI</a>
 <p> </p>
 
 * __Time-resolved hadronic particle acceleration in the recurrent nova RS Ophiuchi__
   * F. Aharonian et al. (H.E.S.S. Collaboration)
   * Science __376__, 77–80 (2022)
-  * Contributions: I have helped preparing the H.E.S.S. data and assisted in the data analysis.
+  * Contributions: I helped preparing the H.E.S.S. data and assisted in the data analysis.
   * <a href="https://ui.adsabs.harvard.edu/abs/2022Sci...376...77A/abstract" target="_blank">ADS</a> &nbsp;&nbsp; \| &nbsp;&nbsp; <a href="https://arxiv.org/abs/2202.08201" target="_blank">arXiv</a> &nbsp;&nbsp; \| &nbsp;&nbsp; <a href="https://doi.org/10.1126/science.abn0567" target="_blank">DOI</a>
 <p> </p>
 
 * __Revealing x-ray and gamma ray temporal and spectral similarities in the GRB 190829A afterglow__
   * H. Abdalla et al. (H.E.S.S. Collaboration)
   * Science __372__, 1081–1085 (2021)
-  * Contributions: I have helped preparing the H.E.S.S. data and assisted in the data analysis.
+  * Contributions: I helped preparing the H.E.S.S. data and assisted in the data analysis.
   * <a href="https://ui.adsabs.harvard.edu/abs/2021Sci...372.1081H/abstract" target="_blank">ADS</a> &nbsp;&nbsp; \| &nbsp;&nbsp; <a href="https://arxiv.org/abs/2106.02510" target="_blank">arXiv</a> &nbsp;&nbsp; \| &nbsp;&nbsp; <a href="https://doi.org/10.1126/science.abe8560" target="_blank">DOI</a>
 <p> </p>
 
 * __Validation of open-source science tools and background model construction in γ-ray astronomy__
   * L. Mohrmann, A. Specovius, D. Tiziani, S. Funk, D. Malyshev, K. Nakashima, C. van Eldik
   * Astronomy & Astrophysics __632__, A72 (2019)
-  * Contributions: I am the lead author of this paper. I have written the entire text, made all figures, and have derived ~80% of the results.
+  * Contributions: I am the lead author of this paper. I wrote the entire text, made all figures, and derived ~80% of the results.
   * <a href="https://ui.adsabs.harvard.edu/abs/2019A%26A...632A..72M/abstract" target="_blank">ADS</a> &nbsp;&nbsp; \| &nbsp;&nbsp; <a href="https://arxiv.org/abs/1910.08088" target="_blank">arXiv</a> &nbsp;&nbsp; \| &nbsp;&nbsp; <a href="https://doi.org/10.1051/0004-6361/201936452" target="_blank">DOI</a>
 <p> </p>
 
 * __Constraints on the emission region of 3C 279 during strong flares in 2014 and 2015 through VHE γ-ray observations with H.E.S.S.__
   * H. Abdalla et al. (H.E.S.S. Collaboration)
   * Astronomy & Astrophysics __627__, A159 (2019)
-  * Contributions: I have acted as collaboration-internal referee for this publication.
+  * Contributions: I acted as collaboration-internal referee for this publication.
   * <a href="https://ui.adsabs.harvard.edu/abs/2019A%26A...627A.159H/abstract" target="_blank">ADS</a> &nbsp;&nbsp; \| &nbsp;&nbsp; <a href="https://arxiv.org/abs/1906.04996" target="_blank">arXiv</a> &nbsp;&nbsp; \| &nbsp;&nbsp; <a href="https://doi.org/10.1051/0004-6361/201935704" target="_blank">DOI</a>
 <p> </p>
 
 * __Monte Carlo studies for the optimisation of the Cherenkov Telescope Array layout__
   * A. Acharyya et al. (CTA Consortium)
   * Astroparticle Physics __111__, 35 (2019)
-  * Contributions: I have carried out the performance evaluation of the "ImPACT" analysis chain.
+  * Contributions: I carried out the performance evaluation of the "ImPACT" analysis chain.
   * <a href="https://ui.adsabs.harvard.edu/abs/2019APh...111...35A/abstract" target="_blank">ADS</a> &nbsp;&nbsp; \| &nbsp;&nbsp; <a href="https://arxiv.org/abs/1904.01426" target="_blank">arXiv</a> &nbsp;&nbsp; \| &nbsp;&nbsp; <a href="https://doi.org/10.1016/j.astropartphys.2019.04.001" target="_blank">DOI</a>
 <p> </p>
 
 * __A combined maximum-likelihood analysis of the high-energy astrophysical neutrino flux measured with IceCube__
   * M. G. Aartsen et al. (IceCube Collaboration)
   * Astrophysical Journal __809__, 98 (2015)
-  * Contributions: I am the lead author of this paper. I have written the entire text and have derived all presented results.
+  * Contributions: I am the lead author of this paper. I wrote the entire text and derived all presented results.
   * <a href="https://ui.adsabs.harvard.edu/abs/2015ApJ...809...98A/abstract" target="_blank">ADS</a> &nbsp;&nbsp; \| &nbsp;&nbsp; <a href="https://arxiv.org/abs/1507.03991" target="_blank">arXiv</a> &nbsp;&nbsp; \| &nbsp;&nbsp; <a href="https://doi.org/10.1088/0004-637X/809/1/98" target="_blank">DOI</a>
 <p> </p>
 
 * __Antennas for the detection of radio emission pulses from cosmic-ray induced air showers at the Pierre Auger Observatory__
   * P. Abreu et al. (Pierre Auger Collaboration)
   * Journal of Instrumentation __7__, P10011 (2012)
-  * Contributions: I have contributed to all calibration measurements presented in this paper.
+  * Contributions: I contributed to all calibration measurements presented in this paper.
   * <a href="https://ui.adsabs.harvard.edu/abs/2012JInst...7P0011A/abstract" target="_blank">ADS</a> &nbsp;&nbsp; \| &nbsp;&nbsp; <a href="https://arxiv.org/abs/1209.3840" target="_blank">arXiv</a> &nbsp;&nbsp; \| &nbsp;&nbsp; <a href="https://doi.org/10.1088/1748-0221/7/10/P10011" target="_blank">DOI</a>
 <p> </p>
 
