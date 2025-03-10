@@ -10,7 +10,7 @@ tags: []
 
 <!-- #### Experiments -->
 <h4 style="color:firebrick">Experiments</h4>
-I currently work with the High Energy Stereoscopic System (H.E.S.S.) and the Cherenkov Telescope Array (CTA).<br>
+I currently work with the High Energy Stereoscopic System (H.E.S.S.) and the Cherenkov Telescope Array Observatory (CTAO).<br>
 Click on the images to learn more!
 
 {% include research_experiments.html %}
