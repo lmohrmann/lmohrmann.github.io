@@ -33,9 +33,9 @@ In my PhD project, I carried out the first comprehensive measurement of the ener
 
 At my first PostDoc position at the Erlangen Centre for Astroparticle Physics, I then turned to gamma-ray astronomy and have worked with the [High Energy Stereoscopic System (H.E.S.S.)]({% link _research_experiments/hess.md %}), an array of five so-called "Cherenkov telescopes" located in Namibia.
 With H.E.S.S., I study the sources of the highest-energy gamma rays in our Galaxy, the Milky Way.
-I also contributed to the development of a successor experiment to H.E.S.S., the [Cherenkov Telescope Array (CTA)]({% link _research_experiments/cta.md %}), which is going to be constructed during the next years in Chile and on the island of La Palma.
+I also contributed to the development of a successor experiment to H.E.S.S., the [Cherenkov Telescope Array Observatory (CTAO)]({% link _research_experiments/cta.md %}), which is going to be constructed during the next years in Chile and on the island of La Palma.
 
-Currently, I work at the Max Planck Institute for Nuclear Physics (MPIK) in Heidelberg, where I lead the H.E.S.S. group and am also still involved with the CTA project.
+Currently, I work at the Max Planck Institute for Nuclear Physics (MPIK) in Heidelberg, where I lead the H.E.S.S. group and am also still involved with the CTAO project.
 
 When I'm not working, I enjoy spending time with my family, reading a good book, and photography.
 
