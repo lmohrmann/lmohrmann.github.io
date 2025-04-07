@@ -9,6 +9,12 @@ tags: []
 
 #### Presentations
 
+* __2025-04-04 &nbsp;&nbsp; \| &nbsp;&nbsp; Galactic Astrophysics with H.E.S.S.__
+  * Invited plenary talk at the <a href="https://indico.desy.de/event/48220" target="_blank">DPG Frühjahrstagung 2025</a>
+  * Göttingen, Germany, April 2025
+  * <a href="/assets/talks/2025-04-04_LarsMohrmann_DPG_Goettingen.pdf" target="_blank">Presentation (PDF, 35.9 MB)</a>
+<p></p>
+
 * __2024-10-28 &nbsp;&nbsp; \| &nbsp;&nbsp; Recent results on gamma-ray emission from massive star clusters as detected with H.E.S.S.__
   * Invited talk at the <a href="https://indico.ict.inaf.it/event/2878" target="_blank">TOSCA workshop 2024</a>
   * Siena, Italy, October 2024
