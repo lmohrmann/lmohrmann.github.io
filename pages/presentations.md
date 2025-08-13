@@ -9,6 +9,12 @@ tags: []
 
 #### Presentations
 
+* __2025-07-17 &nbsp;&nbsp; \| &nbsp;&nbsp; Discovery of a nascent outflow driven by the massive star cluster Westerlund 1__
+  * Contributed talk at the <a href="https://indico.cern.ch/event/1258933" target="_blank">International Cosmic Ray Conference (ICRC) 2025</a>
+  * Geneva, Switzerland, July 2025
+  * <a href="/assets/talks/2025-07-17_LarsMohrmann_ICRC2025_Wd1Outflow.pdf" target="_blank">Presentation (PDF, 9.8 MB)</a>
+<p></p>
+
 * __2025-04-04 &nbsp;&nbsp; \| &nbsp;&nbsp; Galactic Astrophysics with H.E.S.S.__
   * Invited plenary talk at the <a href="https://indico.desy.de/event/48220" target="_blank">DPG Frühjahrstagung 2025</a>
   * Göttingen, Germany, April 2025
