@@ -29,11 +29,13 @@ tags: []
 
 #### Positions
 
+* __since 10/2025__ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \| &nbsp;&nbsp; Director of the H.E.S.S. Collaboration
+
 * __since 03/2023__ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \| &nbsp;&nbsp; H.E.S.S. group leader at _MPIK, Heidelberg_
 
 * __since 09/2021__ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \| &nbsp;&nbsp; Postdoctoral researcher at _MPIK, Heidelberg_
 
-* __since 10/2019__ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \| &nbsp;&nbsp; Working group convener within the H.E.S.S. Collaboration
+* __10/2019 - 09/2025__ &nbsp;&nbsp; \| &nbsp;&nbsp; Working group convener within the H.E.S.S. Collaboration
 
 * __09/2015 - 08/2021__ &nbsp;&nbsp; \| &nbsp;&nbsp; Postdoctoral researcher at _ECAP, Erlangen_
 

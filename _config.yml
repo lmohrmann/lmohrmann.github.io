@@ -5,7 +5,7 @@ url: "https://lmohrmann.github.io"
 # THEME-SPECIFIC CONFIGURATION
 title: Lars Mohrmann                                    # site's title
 description: "Personal web page of Lars Mohrmann"       # used by search engines
-avatar: assets/img/portrait.jpg                         # Empty for no avatar in navbar
+avatar: assets/img/portrait_square_thumb.jpg                         # Empty for no avatar in navbar
 favicon: assets/img/icon_milky_way.jpg                             # Icon displayed in the tab
 
 # Header and footer text
