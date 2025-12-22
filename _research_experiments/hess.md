@@ -30,14 +30,15 @@ In 2012, the array was completed with a fifth telescope, placed in the centre, w
 With its huge mirror, it can detect fainter light flashes, that means, lower-energy gamma rays.
 This has enabled - again, among many other results - the <a href="https://ui.adsabs.harvard.edu/abs/2018A%26A...620A..66H/abstract" target="_blank">detection of pulsed gamma-ray emission from the Vela pulsar down to energies of 20 GeV</a>.
 
-Some more recent highlights achieved with H.E.S.S. include <a href="https://ui.adsabs.harvard.edu/abs/2021Sci...372.1081H/abstract" target="_blank">the detection of afterglow emission from a gamma-ray burst</a>, and <a href="https://ui.adsabs.harvard.edu/abs/2022Sci...376...77A/abstract" target="_blank">the discovery of very-high-energy gamma-ray emission from a Nova</a>.
-A recent result I have been deeply involved in is a [detailed study of the gamma-ray emission from the star cluster Westerlund 1]({% link _research_projects/wd1.md %}).
+Some more recent highlights achieved with H.E.S.S. include the <a href="https://ui.adsabs.harvard.edu/abs/2021Sci...372.1081H/abstract" target="_blank">detection of afterglow emission from a gamma-ray burst</a>, the <a href="https://ui.adsabs.harvard.edu/abs/2022Sci...376...77A/abstract" target="_blank">discovery of very-high-energy gamma-ray emission from a Nova</a>, and a <a href="https://ui.adsabs.harvard.edu/abs/2024Sci...383..402H/abstract" target="_blank">study of the Galactic microquasar SS 433</a>.
+Recent results I have been deeply involved in are a [detailed study of the gamma-ray emission from the star cluster Westerlund 1]({% link _research_projects/wd1.md %}) and a [measurement of the spectrum and extension of the Crab Nebula in the gamma-ray domain](% link _research_projects/crabfermihess.md %).
 
-Besides being involved in many data analysis projects, I chair since 2019 a working group in the H.E.S.S. Collaboration that is responsible for the development of one of the H.E.S.S. data analysis chains.
+Besides being involved in many data analysis projects, I led from 2019–2025 a working group in the H.E.S.S. Collaboration that is responsible for the development of one of the H.E.S.S. data analysis chains.
+Since October 2025, I <a href="https://www.mpi-hd.mpg.de/mpi/en/public-relations/news/news-item/neuer-direktor-fuer-das-hess-experiment" target="_blank">serve as director and spokesperson of the H.E.S.S. Collaboration</a>.
 
 <u>Further information:</u>
 
-<a href="https://www.mpi-hd.mpg.de/hfm/HESS/" target="_blank">H.E.S.S. web pages</a>
+<a href="https://hess-experiment.eu" target="_blank">H.E.S.S. web pages</a>
 
 
 <p style="font-size:9pt;margin-top:2cm;">H.E.S.S. image credit: H.E.S.S. Collaboration.</p>

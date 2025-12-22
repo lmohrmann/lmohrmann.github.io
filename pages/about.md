@@ -36,7 +36,7 @@ With H.E.S.S., I study the sources of the highest-energy gamma rays in our Galax
 I also contributed to the development of a successor experiment to H.E.S.S., the [Cherenkov Telescope Array Observatory (CTAO)]({% link _research_experiments/cta.md %}), which is going to be constructed during the next years in Chile and on the island of La Palma.
 
 Currently, I work at the Max Planck Institute for Nuclear Physics (MPIK) in Heidelberg, where I lead the H.E.S.S. group and am also still involved with the CTAO project.
-Since October 2025, I also <a href="https://www.mpi-hd.mpg.de/mpi/de/nachrichten/nachricht/neuer-direktor-fuer-das-hess-experiment" target="_blank">serve as director of the H.E.S.S. Collaboration</a>.
+Since October 2025, I also <a href="https://www.mpi-hd.mpg.de/mpi/en/public-relations/news/news-item/neuer-direktor-fuer-das-hess-experiment" target="_blank">serve as director of the H.E.S.S. Collaboration</a>.
 
 When I'm not working, I enjoy spending time with my family, reading a good book, and photography.
 
