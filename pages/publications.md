@@ -29,6 +29,13 @@ Listed below are publications to which I have made direct contributions.
 As a member of the H.E.S.S. Collaboration and the CTA Consortium (and previously of the IceCube Collaboration), I have made indirect contributions to many more papers.
 See <a href="https://ui.adsabs.harvard.edu/public-libraries/O0Q1jhImQ1Cw1C6cJB1JVg" target="_blank">here</a> for a complete listing of my refereed journal publications.
 
+* __A cosmic-ray loaded nascent outflow driven by a massive star cluster__
+  *  M. Lemoine-Goumard, L. Härer, L. Mohrmann, R. Bernet, J. Hinton, G. Peron, B. Reville, L. Tibaldo, T. Vieu
+  * Nature Communications __16__, 10820 (2025)
+  * Contributions: I performed the gas density studies, produced almost all figures, and led the paper writing.
+  * <a href="https://ui.adsabs.harvard.edu/abs/2025NatCo..1610820L/abstract" target="_blank">ADS</a> &nbsp;&nbsp; \| &nbsp;&nbsp; <a href="https://doi.org/10.1038/s41467-025-65592-4" target="_blank">DOI</a>
+<p></p>
+
 * __Improvements to monoscopic analysis for imaging atmospheric Cherenkov telescopes: Application to H.E.S.S.__
   * T. Unbehaun, R. G. Lang, A. Deka Baruah, P. Bedur Ramesh, J. Celic, L. Mohrmann, S. Steinmassl, L. Olivera-Nieto, J. Hinton, S. Funk
   * Astronomy & Astrophysics __694__, A162 (2025)
