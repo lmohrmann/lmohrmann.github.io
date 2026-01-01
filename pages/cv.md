@@ -51,7 +51,7 @@ tags: []
 
 * __2019__ &nbsp;&nbsp; \| &nbsp;&nbsp; H.E.S.S. Prize Spring 2019
   * Bi-annual award, received from the H.E.S.S. Collaboration for “outstanding contributions to the experiment”
-  * <a href="https://www.mpi-hd.mpg.de/hfm/HESS/pages/hessprize/" target="_blank">H.E.S.S. prize web page</a>
+  * <a href="https://hess-experiment.eu/prizes/" target="_blank">H.E.S.S. prize web page</a>
 
 * __2017__ &nbsp;&nbsp; \| &nbsp;&nbsp; Nomination for the dissertation award of the German physical society (DPG)
   * One out of four final candidates, invited plenary presentation at the 2017 spring meeting of the DPG (see [Presentations]({% link pages/presentations.md %}))
