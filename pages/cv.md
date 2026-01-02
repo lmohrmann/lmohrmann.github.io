@@ -27,19 +27,30 @@ tags: []
   * Thesis: Continuous Spectrum Observation of the Aachen Radio Sky
 
 
-#### Positions
-
-* __since 10/2025__ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \| &nbsp;&nbsp; Director of the H.E.S.S. Collaboration
+#### Employment
 
 * __since 03/2023__ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \| &nbsp;&nbsp; H.E.S.S. group leader at _MPIK, Heidelberg_
 
 * __since 09/2021__ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \| &nbsp;&nbsp; Postdoctoral researcher at _MPIK, Heidelberg_
 
-* __10/2019 - 09/2025__ &nbsp;&nbsp; \| &nbsp;&nbsp; Working group convener within the H.E.S.S. Collaboration
-
 * __09/2015 - 08/2021__ &nbsp;&nbsp; \| &nbsp;&nbsp; Postdoctoral researcher at _ECAP, Erlangen_
 
 * __11/2011 - 08/2015__ &nbsp;&nbsp; \| &nbsp;&nbsp; Research associate at _DESY, Zeuthen_
+
+
+#### Membership and Positions
+
+* __since 10/2025__ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \| &nbsp;&nbsp; Director of the H.E.S.S. Collaboration
+
+* __09/2023 – 06/2025__ &nbsp;&nbsp; \| &nbsp;&nbsp; Member of the Scientific Organizing Committee of the 1<sup>st</sup> \& 2<sup>nd</sup> CTAO Summer School
+
+* __10/2019 - 09/2025__ &nbsp;&nbsp; \| &nbsp;&nbsp; Working group convener within the H.E.S.S. Collaboration
+
+* __since 09/2015__ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \| &nbsp;&nbsp; Member of the CTA Consortium
+
+* __since 09/2015__ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \| &nbsp;&nbsp; Member of the H.E.S.S. Collaboration
+
+* __11/2011 – 08/2015__ &nbsp;&nbsp; \| &nbsp;&nbsp; Member of the IceCube Collaboration
 
 
 #### Reviewer Assignments
