@@ -42,7 +42,7 @@ tags: []
 
 * __since 10/2025__ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \| &nbsp;&nbsp; Director of the H.E.S.S. Collaboration
 
-* __09/2023 – 06/2025__ &nbsp;&nbsp; \| &nbsp;&nbsp; Member of the Scientific Organizing Committee of the 1<sup>st</sup> \& 2<sup>nd</sup> CTAO Summer School
+* __09/2023 – 06/2025__ &nbsp;&nbsp; \| &nbsp;&nbsp; Member of the Scientific Organizing Committee of the 1<sup>st</sup> & 2<sup>nd</sup> CTAO Summer School
 
 * __10/2019 - 09/2025__ &nbsp;&nbsp; \| &nbsp;&nbsp; Working group convener within the H.E.S.S. Collaboration
 
