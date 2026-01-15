@@ -9,6 +9,12 @@ tags: []
 
 #### Presentations
 
+* __2026-01-13 &nbsp;&nbsp; \| &nbsp;&nbsp; Exploring the Universe with high-energy gamma rays using H.E.S.S.__
+  * Invited seminar talk in the <a href="https://www.youtube.com/user/AstronomyHeidelberg/videos" target="_blank">Heidelberg Joint Astronomical Colloquium</a> series
+  * Heidelberg, Germany, January 2026
+  * <a href="/assets/talks/2026-01-13_HJAC_LarsMohrmann_HESS_final.pdf" target="_blank">Presentation (PDF, 71.4 MB)</a>
+<p></p>
+
 * __2025-07-17 &nbsp;&nbsp; \| &nbsp;&nbsp; Discovery of a nascent outflow driven by the massive star cluster Westerlund 1__
   * Contributed talk at the <a href="https://indico.cern.ch/event/1258933" target="_blank">International Cosmic Ray Conference (ICRC) 2025</a>
   * Geneva, Switzerland, July 2025
