@@ -29,6 +29,13 @@ Listed below are publications to which I have made direct contributions.
 As a member of the H.E.S.S. Collaboration and the CTA Consortium (and previously of the IceCube Collaboration), I have made indirect contributions to many more papers.
 See <a href="https://ui.adsabs.harvard.edu/public-libraries/O0Q1jhImQ1Cw1C6cJB1JVg" target="_blank">here</a> for a complete listing of my refereed journal publications.
 
+* __Event types in H.E.S.S.: A combined analysis for different telescope types and energy ranges__
+  * R. G. Lang, T. Unbehaun, L. Mohrmann, S. Steinmassl, J. Hinton, S. Funk
+  * Astronomy & Astrophysics __706__, A291 (2026)
+  * Contributions: I advised the lead author, Rodrigo Lang, throughout the project, helped with the implementation of the code into the analysis software framework, and provided feedback on the manuscript.
+  * <a href="https://ui.adsabs.harvard.edu/abs/2026A%26A...706A.291G/abstract" target="_blank">ADS</a> &nbsp;&nbsp; \| &nbsp;&nbsp; <a href="https://arxiv.org/abs/2510.15454" target="_blank">arXiv</a> &nbsp;&nbsp; \| &nbsp;&nbsp; <a href="https://doi.org/10.1051/0004-6361/202557730" target="_blank">DOI</a>
+<p></p>
+
 * __A cosmic-ray loaded nascent outflow driven by a massive star cluster__
   *  M. Lemoine-Goumard, L. Härer, L. Mohrmann, R. Bernet, J. Hinton, G. Peron, B. Reville, L. Tibaldo, T. Vieu
   * Nature Communications __16__, 10820 (2025)
@@ -39,7 +46,7 @@ See <a href="https://ui.adsabs.harvard.edu/public-libraries/O0Q1jhImQ1Cw1C6cJB1J
 * __Improvements to monoscopic analysis for imaging atmospheric Cherenkov telescopes: Application to H.E.S.S.__
   * T. Unbehaun, R. G. Lang, A. Deka Baruah, P. Bedur Ramesh, J. Celic, L. Mohrmann, S. Steinmassl, L. Olivera-Nieto, J. Hinton, S. Funk
   * Astronomy & Astrophysics __694__, A162 (2025)
-  * Contributions: I maintain the software framework into which the method was implemented, partly wrote the scripts for generating and evaluating the instrument response functions, co-supervised two Master students that contributed to the work, and provided feedback on the paper.
+  * Contributions: I maintained the software framework into which the method was implemented, partly wrote the scripts for generating and evaluating the instrument response functions, co-supervised two Master students that contributed to the work, and provided feedback on the paper.
   * <a href="https://ui.adsabs.harvard.edu/abs/2025A%26A...694A.162U/abstract" target="_blank">ADS</a> &nbsp;&nbsp; \| &nbsp;&nbsp; <a href="https://arxiv.org/abs/2501.08671" target="_blank">arXiv</a> &nbsp;&nbsp; \| &nbsp;&nbsp; <a href="https://doi.org/10.1051/0004-6361/202452927" target="_blank">DOI</a>
 <p></p>
 
