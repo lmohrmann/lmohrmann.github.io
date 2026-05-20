@@ -68,4 +68,4 @@ tags: []
   * One out of four final candidates, invited plenary presentation at the 2017 spring meeting of the DPG (see [Presentations]({% link pages/presentations.md %}))
 
 * __2016__ &nbsp;&nbsp; \| &nbsp;&nbsp; Global Neutrino Network (GNN) Dissertation Prize
-  * <a href="http://www.globalneutrinonetwork.org/sites/site_gnn/content/e227565/e273237/GNN-Diss-Prize-2016.pdf" target="_blank">Announcement (PDF)</a>
+  * <a href="/assets/misc/GNN-Diss-Prize-2016.pdf" target="_blank">Announcement (PDF)</a>
