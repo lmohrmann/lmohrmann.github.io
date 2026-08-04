@@ -9,10 +9,16 @@ tags: []
 
 #### Presentations
 
+* __2026-08-04 &nbsp;&nbsp; \| &nbsp;&nbsp; Exploring the origin of cosmic rays with high-energy gamma rays using H.E.S.S.__
+  * Invited talk at the <a href="https://cospar2026.org" target="_blank">46th COSPAR Scientific Assembly 2026</a>
+  * Florence, Italy, August 2026
+  * <a href="/assets/talks/2026-08-04_HESS_Highlights_COSPAR2026_LarsMohrmann_final.pdf" target="_blank">Presentation (PDF, 32.7 MB)</a>
+<p></p>
+
 * __2026-03-11 &nbsp;&nbsp; \| &nbsp;&nbsp; On superbubbles and cosmic rays: Measurements of high-energy γ-ray emission from young massive star cluster environments__
   * Invited seminar talk at the Anton Pannekoek Institute for Astronomy, University of Amsterdam
   * Amsterdam, Netherlands, March 2026
-  *  <a href="/assets/talks/2026-03-11_Amsterdam_LarsMohrmann_no_backup.pdf" target="_blank">Presentation (PDF, 38.8 MB)</a>
+  * <a href="/assets/talks/2026-03-11_Amsterdam_LarsMohrmann_no_backup.pdf" target="_blank">Presentation (PDF, 38.8 MB)</a>
 <p></p>
 
 * __2026-01-13 &nbsp;&nbsp; \| &nbsp;&nbsp; Exploring the Universe with high-energy gamma rays using H.E.S.S.__
