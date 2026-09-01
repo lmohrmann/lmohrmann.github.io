@@ -9,6 +9,12 @@ tags: []
 
 #### Presentations
 
+* __2026-08-31 &nbsp;&nbsp; \| &nbsp;&nbsp; Gamma-ray emission from young stellar ecosystems__
+  * Invited plenary talk at the <a href="https://plan.events.mpg.de/event/543" target="_blank">9th Heidelberg International Symposium on High-Energy Gamma-Ray Astronomy (Gamma 2026)</a>
+  * Heidelberg, Germany, August/September 2026
+  * <a href="https://plan.events.mpg.de/event/543/contributions/4073/attachments/1225/2874/2026-08-31_StellarEcosystems_Gamma26_LarsMohrmann.pdf" target="_blank">Presentation (PDF, 66.7 MB)</a>
+<p></p>
+
 * __2026-08-04 &nbsp;&nbsp; \| &nbsp;&nbsp; Exploring the origin of cosmic rays with high-energy gamma rays using H.E.S.S.__
   * Invited talk at the <a href="https://cospar2026.org" target="_blank">46th COSPAR Scientific Assembly 2026</a>
   * Florence, Italy, August 2026
