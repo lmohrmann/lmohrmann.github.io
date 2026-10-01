@@ -16,10 +16,19 @@ tags: []
   * <a href="https://ui.adsabs.harvard.edu/abs/2023hxga.book..137M/abstract" target="_blank">ADS</a> &nbsp;&nbsp; \| &nbsp;&nbsp; <a href="https://arxiv.org/abs/2309.02966" target="_blank">arXiv</a> &nbsp;&nbsp; \| &nbsp;&nbsp; <a href="https://doi.org/10.1007/978-981-16-4544-0_177-1" target="_blank">DOI</a>
 <p></p>
 
+
+#### Popular science articles
+
+* __Superblase kosmischer Strahlung bricht aus der Galaxis__
+  * Lucia Härer, Lars Mohrmann
+  * <a href="https://www.spektrum.de/news/westerlund-1-superblase-kosmischer-strahlung-bricht-aus-der-galaxis/2308814" target="_blank">Sterne und Weltraum 10/2026</a>
+  * 4-page article about <a href="https://doi.org/10.1038/s41467-025-65592-4" target="_blank">this paper</a>
+<p></p>
+
 * __Astronomie bei hohen Energien: 20 Jahre H.E.S.S.__
   * Lars Mohrmann
   * <a href="https://www.spektrum.de/inhaltsverzeichnis/jubilaeum-20-jahre-h-e-s-s-sterne-und-weltraum-12-2023/2099391" target="_blank">Sterne und Weltraum 12/2023</a>
-  * 8-page review article in German popular science magazine
+  * 8-page review article about H.E.S.S.
 <p></p>
 
 
