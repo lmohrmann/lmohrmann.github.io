@@ -49,7 +49,7 @@ See <a href="https://ui.adsabs.harvard.edu/public-libraries/O0Q1jhImQ1Cw1C6cJB1J
   *  M. Lemoine-Goumard, L. Härer, L. Mohrmann, R. Bernet, J. Hinton, G. Peron, B. Reville, L. Tibaldo, T. Vieu
   * Nature Communications __16__, 10820 (2025)
   * Contributions: I performed the gas density studies, produced almost all figures, and led the paper writing.
-  * <a href="https://ui.adsabs.harvard.edu/abs/2025NatCo..1610820L/abstract" target="_blank">ADS</a> &nbsp;&nbsp; \| &nbsp;&nbsp; <a href="https://doi.org/10.1038/s41467-025-65592-4" target="_blank">DOI</a>
+  * <a href="https://ui.adsabs.harvard.edu/abs/2025NatCo..1610820L/abstract" target="_blank">ADS</a> &nbsp;&nbsp; \| &nbsp;&nbsp; <a href="https://arxiv.org/abs/2607.15797" target="_blank">arXiv</a> &nbsp;&nbsp; \| &nbsp;&nbsp; <a href="https://doi.org/10.1038/s41467-025-65592-4" target="_blank">DOI</a>
 <p></p>
 
 * __Improvements to monoscopic analysis for imaging atmospheric Cherenkov telescopes: Application to H.E.S.S.__
